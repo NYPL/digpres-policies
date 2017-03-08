@@ -32,7 +32,7 @@ Devices must have a USB 3.0+ connection. Devices may have additional USB 3.0 and
 Devices must be formatted as exFAT. For compatibility across operating systems, devices formatted as exFAT should use a maximum cluster size of 1024 bytes. Other file systems such as NTFS, HFS+, and AFS should not be used unless approved by NYPL Digital Preservation.
 
 ### Naming
-Device must
+Devices must have a unique identifier. The identifier must be printed on a physical label and securely attached to the enclosure. The same identifier must also be used as the device's volume label.
 
 ## Appendix A: Prohibited Model Numbers
 Once a model number has been added to this listed, it must not be used for new purchases. Additionally, existing devices of that model number should be removed from service.
