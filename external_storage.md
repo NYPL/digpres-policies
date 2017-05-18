@@ -1,4 +1,4 @@
-# NYPL Special Collections Portable Digital Storage Device Specification
+# NYPL Special Collections Portable Digital Storage Device Specification (Draft)
 ## Purpose
 This specification covers the requirements for digital storage devices used to transport NYPL’s digitized and born-digital special collections.
 
