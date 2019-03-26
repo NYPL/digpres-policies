@@ -1,4 +1,4 @@
-# NYPL Special Collections Portable Digital Storage Device Specification (Draft)
+# NYPL Special Collections Portable Digital Storage Device Guidelines (Draft)
 ## Purpose
 This specification covers the requirements for digital storage devices used to transport NYPL’s digitized and born-digital special collections.
 
@@ -30,6 +30,9 @@ Devices must have a USB 3.0+ connection. Devices may have additional USB 3.0 and
 
 ### File System
 Devices must be formatted as exFAT. For compatibility across operating systems, devices formatted as exFAT should use a maximum cluster size of 1024 bytes. Other file systems such as NTFS, HFS+, and AFS should not be used unless approved by NYPL Digital Preservation.
+
+### Disk Array
+Devices may use Redundant Arrays of Independent Disk (RAID) to provide greater data stability. Devices may only use RAID 1, RAID 5, or RAID 6 configurations.
 
 ### Naming
 Devices must have a unique identifier. The identifier must be printed on a physical label and securely attached to the enclosure. The same identifier must also be used as the device's volume label.
